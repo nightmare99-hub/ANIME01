@@ -9,6 +9,7 @@ import {MenuComponent} from './Components/Blocks/Menu/menu.component';
 import {SliderComponent} from './Components/Blocks/Slider/Slider.component';
 import {UsersComponent} from './Components/Blocks/Users/Users.component';
 import {CategoriesComponent} from './Components/Blocks/Categories/Categories.component';
+import {footerComponent} from './Components/Blocks/Footer/Footer.component';
 
 
 
@@ -20,7 +21,8 @@ import {CategoriesComponent} from './Components/Blocks/Categories/Categories.com
     MenuComponent,
     SliderComponent,
     UsersComponent,
-    CategoriesComponent
+    CategoriesComponent,
+    footerComponent
   ],
   imports: [
     BrowserModule,
